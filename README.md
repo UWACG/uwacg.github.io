@@ -1,3 +1,3 @@
 # UWACG's Github Page
-This repo is used only for a temporary homepage display, 
-please submit your devlopment changes to uwacg.com
+ This repository will only be used for a temporary homepage display.  
+ Please submit your development changes to uwacg.com.
