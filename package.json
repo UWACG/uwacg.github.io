@@ -1,0 +1,34 @@
+{
+  "name": "uwacg.github.io",
+  "version": "1.0.0",
+  "description": "UW acg web client",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.3"
+  },
+  "devDependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.3",
+    "redux": "^3.6.0",
+    "typescript": "^2.2.1"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UWACG/uwacg.github.io.git"
+  },
+  "keywords": [
+    "acg"
+  ],
+  "author": "Ajika",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UWACG/uwacg.github.io/issues"
+  },
+  "homepage": "https://github.com/UWACG/uwacg.github.io#readme"
+}
