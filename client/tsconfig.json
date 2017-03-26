@@ -37,7 +37,8 @@
     ]
   },
   "include": [
-    "**/*"
+    "**/*",
+    "node_modules/typescript/lib/*"
   ],
   "exclude": [
     "node_modules/**/",
