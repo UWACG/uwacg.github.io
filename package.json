@@ -4,16 +4,22 @@
   "description": "UW acg web client",
   "main": "index.js",
   "dependencies": {
+    "@types/react": "^15.0.17",
+    "@types/react-dom": "^0.14.23",
+    "@types/react-redux": "^4.4.37",
+    "@types/redux": "^3.6.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
     "react-redux": "^5.0.3"
   },
   "devDependencies": {
+    "es6-shim": "^0.35.3",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
     "react-redux": "^5.0.3",
     "redux": "^3.6.0",
-    "typescript": "^2.2.1"
+    "typescript": "^2.2.1",
+    "webpack": "^2.2.1"
   },
   "scripts": {
     "test": "test"
@@ -30,5 +36,8 @@
   "bugs": {
     "url": "https://github.com/UWACG/uwacg.github.io/issues"
   },
-  "homepage": "https://github.com/UWACG/uwacg.github.io#readme"
+  "homepage": "https://github.com/UWACG/uwacg.github.io#readme",
+  "build": {
+    "webpack"
+  }
 }
